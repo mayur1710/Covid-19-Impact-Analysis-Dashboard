@@ -1,6 +1,7 @@
 # COVID-19 Impact Analysis Dashboard
 
-![image](https://github.com/user-attachments/assets/d0bf4f01-d9f6-416b-966f-2034dd281739)
+![image](https://github.com/user-attachments/assets/6f35d4b1-b32c-44ac-abde-2365008ab0bc)
+
 
 This web application provides a comprehensive and interactive dashboard for visualizing COVID-19 statistics across different states. The dashboard includes real-time data visualizations such as total cases, active cases, recovered cases, deaths, and commodity usage (Mask, Sanitizer, Oxygen) along with zone-wise distributions.
 
