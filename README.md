@@ -92,24 +92,9 @@ When you open the app, you will see an interactive dashboard with:
 - A line graph for the chosen commodity (Mask, Sanitizer, Oxygen).
 - A pie chart that shows the distribution of COVID-19 zones.
 
-## Contributing
 
-We welcome contributions to this project! If you'd like to help, follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add feature'`).
-5. Push to your branch (`git push origin feature-name`).
-6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - Data Source: The data used in this project is publicly available and can be found in the `state_wise_daily.csv` file.
 - Libraries: This project uses Dash, Plotly, Pandas, and Bootstrap.
 
----
-
-Make sure to replace the placeholder for `state_wise_daily.csv` with the actual file location or description of the source where users can get the data file.
